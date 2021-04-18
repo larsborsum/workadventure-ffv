@@ -6,7 +6,7 @@ Die Feuerwehr baut sich in workadventure ein Gerätehaus.
 
 Dies ist ein privates just-for-fun Projekt und stellt innerhalb von WorkAdventure einen Kommunikationkanal für das Einsatzpersonal und die Freunde der lokalen Feuerwehr her. Es ist nicht das offizielle Schulungs- und Kommunikationsmedium während oder nach der Pandemie.
 
-Die VR-Welt kann über die Adresse [https://play.workadventu.re/_/global/larsborsum.github.io/workadventure-ffv/GH.json](https://play.workadventu.re/_/global/larsborsum.github.io/workadventure-ffv/GH.json) betreten werden.
+Die VR-Welt kann über die Adresse [https://play.workadventu.re/_/global/larsborsum.github.io/workadventure-ffv/main.json](https://play.workadventu.re/_/global/larsborsum.github.io/workadventure-ffv/main.json) betreten werden.
 
 ## How-To
 
